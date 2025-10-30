@@ -1,3 +1,6 @@
+**Why it is not too late to invest in AI
+Oct 30, 2025**
+
 Artificial intelligence has become the defining story of our generation — a new industrial revolution unfolding in real time. Everywhere you look, from semiconductor labs to creative studios, companies are racing to build the future. For investors, it’s thrilling — and a little overwhelming. How do you participate in the AI wave without getting swept up in the hype?
 
 The key is to understand that AI isn’t a single stock or product; it’s an entire ecosystem. Think of it as a digital power grid — a network of chips, data centers, cloud platforms, and software that together enable machine intelligence to exist. The smartest investors aren’t chasing the next headline-grabbing company; they’re quietly building diversified portfolios that reflect this deeper structure.
@@ -27,6 +30,8 @@ Here, I provided 2 curated portfolios. Take it with grain of salt.
 | **Non-Tech / Defensive Assets**  | 10%        | Bonds, T-Bills, Utilities ETFs                    | Hedge against AI volatility         |
 
 **Portolio 2: With ETF ONLY**
+
+
 | Category                          | Allocation | ETF                                           | Focus                                 |
 | --------------------------------- | ---------- | --------------------------------------------- | ------------------------------------- |
 | **Broad AI & Robotics Exposure**  | 35%        | Global X Robotics & AI ETF (**BOTZ**)         | Core AI and automation holdings       |
