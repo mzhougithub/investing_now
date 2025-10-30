@@ -1,5 +1,8 @@
-**Why it is not too late to invest in AI
-Oct 30, 2025**
+**Why it is not too late to invest in AI**
+
+**Oct 30, 2025**
+
+**JeffZ**
 
 Artificial intelligence has become the defining story of our generation — a new industrial revolution unfolding in real time. Everywhere you look, from semiconductor labs to creative studios, companies are racing to build the future. For investors, it’s thrilling — and a little overwhelming. How do you participate in the AI wave without getting swept up in the hype?
 
